@@ -51,7 +51,7 @@ extern "C" {
 
 /* AWS Specific header files */
 #include "aws_iot_error.h"
-#include "aws_iot_config.h"
+//#include "aws_iot_config.h"
 #include "aws_iot_mqtt_client.h"
 
 /* Platform specific implementation header files */
