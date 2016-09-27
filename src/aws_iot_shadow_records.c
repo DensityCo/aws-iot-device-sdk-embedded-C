@@ -22,6 +22,7 @@
 extern "C" {
 #endif
 
+#include "aws_iot_config.h"
 #include "aws_iot_shadow_records.h"
 
 #include <string.h>

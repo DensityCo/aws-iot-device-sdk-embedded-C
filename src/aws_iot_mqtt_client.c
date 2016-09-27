@@ -39,9 +39,9 @@
 extern "C" {
 #endif
 
+#include "aws_iot_config.h"
 #include "aws_iot_log.h"
 #include "aws_iot_mqtt_client_interface.h"
-
 #ifdef _ENABLE_THREAD_SUPPORT_
 #include "threads_interface.h"
 #endif

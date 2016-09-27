@@ -39,6 +39,7 @@
 extern "C" {
 #endif
 
+#include "aws_iot_config.h"
 #include <aws_iot_mqtt_client.h>
 #include "aws_iot_mqtt_client_interface.h"
 #include "aws_iot_mqtt_client_common_internal.h"
